@@ -17,6 +17,6 @@ EZAltz offers uniq email inbox for each account. This ensures easy confirmation 
 
 ## Mobile Guard
 
-EZAltz offers mobile guard activation for each account. You have acces to .MaFile for [SDA](https://github.com/Jessecar96/SteamDesktopAuthenticator) and u can get mobile guard code simple on [account view](/features/managment#account-view) page.
+EZAltz offers mobile guard activation for each account. You have acces to .MaFile for [SDA](https://github.com/Jessecar96/SteamDesktopAuthenticator) and u can get mobile guard code simple on [account view](/features/management#account-view) page.
 
 ![Mobile Guard](/assets/guard-code.png)

@@ -31,7 +31,7 @@ EZAltz offers a simple and intuitive account management system. The account mana
 - **💰 Make a Sale Action** - Make a sale page for the account or transfer the account to another EZAltz user. See [Sales](/features/sales) for more information.
 - **📧 Mail Action** - Send email inbox of current account.
 - **⚙️ Edit Action** - Edit account details. Email, password, tags, etc.
-- **🗑️ Delete Action** - Archive account. Account will be moved to the archive. See [Archive](/features/archive) for more information.
+- **🗑️ Delete Action** - Archive account. Account will be moved to the archive.
 - **👤 View Steam Profile Action** - Direct link to the account's steam profile.
 
 ## Favorite Accounts View
