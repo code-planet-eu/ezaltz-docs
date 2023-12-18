@@ -51,6 +51,8 @@ const config = {
       ({
         docs: {
           routeBasePath: "/", // Set this value to '/'.
+          sidebarCollapsible: false,
+          numberPrefixParser: true,
         },
         blog: false,
         theme: {
@@ -75,26 +77,26 @@ const config = {
         //   src: "img/logo.svg",
         // },
         items: [
-          {
-            type: "docSidebar",
-            sidebarId: "defaultSidebar",
-            position: "left",
-            label: "Docs",
-          },
+          // {
+          //   type: "docSidebar",
+          //   sidebarId: "defaultSidebar",
+          //   position: "left",
+          //   label: "Docs",
+          // },
           {
             href: "https://beta.ezaltz.com",
-            position: "left",
+            position: "right",
             label: "Dashboard",
           },
           {
             href: "https://discord.gg/ezaltz",
-            position: "left",
+            position: "right",
             label: "Discord",
           },
-          {
-            type: "localeDropdown",
-            position: "right",
-          },
+          // {
+          //   type: "localeDropdown",
+          //   position: "right",
+          // },
         ],
       },
       // footer: {
